@@ -1,4 +1,6 @@
-## Hi there 👋
+ Hi, I'm Yoonkyu Lee!
+ I'm currently studying Chip Verification and Parallel Programming (CUDA).
+ Please reach me via yklee.us@gmail.com
 
 <!--
 **Yoonkyu-Lee/Yoonkyu-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
