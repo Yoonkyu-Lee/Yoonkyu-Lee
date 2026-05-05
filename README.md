@@ -19,7 +19,10 @@ Silicon and low-level systems are my thing — from fab process to RTL to bare-m
 
 ⚡ **Parallel Programming with GPU** →
 - [batched-lenet-cuda](https://github.com/Yoonkyu-Lee/batched-lenet-cuda)  ·  10k LeNet-5 forward passes in ~28 ms on a single A40
-- [sinograph-explorer](https://github.com/Yoonkyu-Lee/sinograph-explorer)  ·  GPU-accelerated Chinese character analysis
+
+
+🍓 **Edge ML & IoT** →
+- [sinograph-explorer](https://github.com/Yoonkyu-Lee/sinograph-explorer)  ·  Sinograph (漢字) recognition on a Pi + Edge TPU (custom DNN, CUDA-trained)
 
 
 🔐 **Security & crypto rabbit holes** →
@@ -30,9 +33,9 @@ Silicon and low-level systems are my thing — from fab process to RTL to bare-m
 - [location-inference-on-social-graphs](https://github.com/Yoonkyu-Lee/location-inference-on-social-graphs)  ·  Guessing locations from friend graphs
 
 
-🕹️ **Just for fun** →
-- [nom-5-reversing](https://github.com/Yoonkyu-Lee/nom-5-reversing)  ·  Reverse-engineering an arcade rhythm game
-- [bc-sprite-modder](https://github.com/Yoonkyu-Lee/bc-sprite-modder)  ·  Unpacking and modding packed game sprites
+🕹️ **Very Personal! Just for fun!** →
+- [nom-5-reversing](https://github.com/Yoonkyu-Lee/nom-5-reversing)
+- [bc-sprite-modder](https://github.com/Yoonkyu-Lee/bc-sprite-modder)  ·  Unpacking and modding The Battle Cats animated sprites
 
 ---
 
