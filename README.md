@@ -7,16 +7,16 @@ Silicon and low-level systems are my thing — from fab process to RTL to bare-m
 
 ---
 
-#### 🔧 Chips & RTL stuff
-- [out-of-order-processor](https://github.com/Yoonkyu-Lee/out-of-order-processor)  ·  OoO RV32IM core in SystemVerilog
+#### 🔧 Verification & RTL for CPU
+- [out-of-order-processor](https://github.com/Yoonkyu-Lee/out-of-order-processor)  ·  OoO RV32IM CPU in SystemVerilog
 - [SoC-Chess](https://github.com/Yoonkyu-Lee/SoC-Chess)  ·  Real-time chess on a Spartan-7 SoC
-
-#### 🐧 OS Level Engineering
-- [riscv-skyline](https://github.com/Yoonkyu-Lee/riscv-skyline)  ·  A screensaver
-- [riscv-mini-os](https://github.com/Yoonkyu-Lee/riscv-mini-os)  ·  Tiny OS from scratch
 
 #### ⚡ Parallel Programming with GPU
 - [batched-lenet-cuda](https://github.com/Yoonkyu-Lee/batched-lenet-cuda)  ·  10k LeNet-5 forward passes in ~28 ms on a single A40
+
+#### 🐧 OS Level Engineering
+- [riscv-skyline](https://github.com/Yoonkyu-Lee/riscv-skyline)  ·  Screensaver
+- [riscv-mini-os](https://github.com/Yoonkyu-Lee/riscv-mini-os)  ·  Tiny OS emulation from scratch
 
 #### 🍓 Edge ML & IoT
 - [sinograph-explorer](https://github.com/Yoonkyu-Lee/sinograph-explorer)  ·  Sinograph (漢字) recognition on a Pi + Edge TPU (custom DNN, CUDA-trained)
