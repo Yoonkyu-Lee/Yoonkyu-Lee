@@ -1,7 +1,8 @@
 ### Hi, I'm Yoonkyu 👋
-
-Computer Engineering @ UIUC · graduating May 2026
+I'm studying computer engineering & semiconductor engineering.
 Silicon and low-level systems are my thing — from fab process to RTL to bare-metal code.
+I Mostly speak SystemVerilog, C, and CUDA. Currently into out-of-order cores and GPU kernels.
+Also tinkering with coding setups powered by LLMs. 🤖
 
 📫 yklee.us@gmail.com · [LinkedIn](https://linkedin.com/in/yoonkyu-lee2026)
 
@@ -34,4 +35,4 @@ Silicon and low-level systems are my thing — from fab process to RTL to bare-m
 
 ---
 
-Mostly speak SystemVerilog, C, and CUDA. Currently into out-of-order cores and GPU kernels.
+
