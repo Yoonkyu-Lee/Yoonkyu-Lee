@@ -32,6 +32,7 @@ Also tinkering with coding setups powered by LLMs. 🤖
 #### 🕹️ Very Personal! Just for fun!
 - [nom-5-reversing](https://github.com/Yoonkyu-Lee/nom-5-reversing)
 - [bc-sprite-modder](https://github.com/Yoonkyu-Lee/bc-sprite-modder)  ·  Unpacking and modding The Battle Cats animated sprites
+- [sms-api-pricing](https://yoonkyu-lee.github.io/sms-api-pricing/)  ·  sms api pricing twilio telnyx cpaas comparison
 
 ---
 
